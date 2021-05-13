@@ -2,8 +2,9 @@
 * @author   Triston Ruiseco
 * @file     PHypoTest.C
 * @date     05/09/2021
-* @brief    Generates an exponentially distributed data sample and exports it
-            to a file according to users specifications.
+* @brief    Analyzes and visualizes the significance-signal
+						relationship between appropriate Poisson
+						distributed data samples.
 *************************************************************/
 
 // Std Includes
